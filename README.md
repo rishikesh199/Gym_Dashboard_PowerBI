@@ -216,23 +216,21 @@ Continuous `date` range with:
 - **TDEE** = `BMR × activity_multiplier`
 
 ---
-
-## 📸 Screenshots (Click image to open GitHub page)
+## 📸 Dashboard Screens
 
 ### 🏠 Home
-https://raw.githubusercontent.com/USER/REPO/branch/Home.png](https://github.com/USER/REPO/blob/branch/Home.png)
+![Home.png](https://github.com/rishikesh199/Gym_Dashboard_PowerBI/blob/main/Home.png).
 
-### 📈 Overall
-[![ps://raw.githubusercontent.com/USER/REPO/branch/Overall.png](https://github.com/USER/REPO/blob/branch/Overall.png)
+### 📊 Overall
+![Overall.png](https://github.com/rishikesh199/Gym_Dashboard_PowerBI/blob/main/Overall.png).
 
 ### 🧮 Calculator
-[![Calculator](https://raw.githubusercontent.com/USER/REPO/branch/Calculator.png)](https://github.com/USER//Calculator.png)
+![Calculator.png](https://github.com/rishikesh199/Gym_Dashboard_PowerBI/blob/main/Calculator.png).
 
 ### 👥 Members
-https://raw.githubusercontent.com/USER/REPO/branch/Members.png](https://github.com/USER/REPO/blob/branch/Members.png)
+![Members.png](https://github.com/rishikesh199/Gym_Dashboard_PowerBI/blob/main/Members.png).
 
 ---
-
 ## 🔒 Notes
 - Built on **dummy/anonymized** data.  
 - This is **not medical advice**; calculator outputs are for **fitness guidance only**.
