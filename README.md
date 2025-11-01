@@ -2,6 +2,11 @@
 
 A comprehensive **Power BI dashboard** designed in **Figma** and powered by a structured dataset (ready for PostgreSQL/CSV/Excel). It unifies **overall performance, monthly trends, membership status, health calculations, and member profiles**—so owners and managers can move from manual Excel summaries to **real‑time, drillable insights**.
 
+👉 **Click below to explore the Gym Dashboard:**
+
+[![View Gym Report](https://img.shields.io/badge/Power%20BI-Open%20Gym%20Dashboard-blue)](https://app.powerbi.com/view?r=eyJrIjoiNjA2MDlmZGUtYjg3OS00OWFjLWFhOGUtNTQyNDA2OGU5MTI2IiwidCI6ImM2MDAxOTk3LWQ4MzEtNDY3Zi05NDZhLThhZWU1ZDc0NmQ1NCJ9)
+
+
 ---
 
 ## 🔹 Short Description / Purpose
